@@ -10,17 +10,20 @@ pageClass: custom-page-class
 <div class="features">
   <div class="feature">
   <!-- <img src="icons/rocket.svg"/> -->
-    <h2>Flast<img id='icons'src="icons/rocket.svg"/></h2>
+    <img id='icons'src="icons/rocket.svg"/>
+    <h2>Flast</h2>
     <p>Chilled air freight direct / procurement, customs clearance, distribution one-stop service, seamless integration</p>
   </div>
   <div class="feature">
   <!-- <img src="icons/earth.svg"/> -->
-    <h2>Direct supply<img src="icons/earth.svg"/></h2>
+    <img src="icons/earth.svg"/>
+    <h2>Direct supply</h2>
     <p>Own wild Mediterranean bluefin tuna processing plant and ultra-low temperature ice storage</p>
   </div>
   <div class="feature">
   <!-- <img src="icons/safety certificate.svg"/> -->
-    <h2>Reputation first<img src="icons/safety certificate.svg"/></h2>
+    <img src="icons/safety certificate.svg"/>
+    <h2>Reputation first</h2>
     <p>Natural source of goods, complete certificate, ingenuity quality, first-class reputation in the industry</p>
   </div>
 </div>

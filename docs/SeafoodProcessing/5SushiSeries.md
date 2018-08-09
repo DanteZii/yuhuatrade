@@ -1,4 +1,4 @@
 ---
-sidebarDepth: 0
+sidebarDepth: 2
 ---
 # SushiSeries

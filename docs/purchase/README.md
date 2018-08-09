@@ -13,7 +13,7 @@ pageClass: custom-page-class
 
 
 
-## 1.Pacific Mackerel
+## 1.Pacific Mackerel <Badge text="Hot" type="error"/>
 <p><strong>主要采购国家：</strong> 韩国、日本</p>
 <p><strong>规格：</strong>200-400 300-500，400-600 700+</p>
 <p><strong>包装：</strong>10公斤或15公斤</p>
@@ -25,7 +25,7 @@ imageView2/0/interlace/1/q/30|imageslim">
 <br>
 <br>
 
-## 2. Spanish Mackerel <Badge text="畅销" type="error"/>
+## 2. Spanish Mackerel <Badge text="Hot" type="error"/>
 <p><strong>主要采购国家：</strong> 韩国、日本</p>
 <p><strong>规格：</strong>200-400 300-400 500-750</p>
 <p><strong>包装：</strong>10公斤或15公斤</p>
@@ -41,7 +41,7 @@ imageView2/0/interlace/1/q/30|imageslim">
 <br>
 <br>
 
-## 3. Plaice
+## 3. Plaice <Badge text="Hot" type="error"/>
 <p><strong>主要采购国家：</strong> 日本、韩国、台湾</p>
 <p><strong>规格：</strong>100-200，200-300，300-500</p>
 <p><strong>包装：</strong>10公斤或15公斤</p>
@@ -87,6 +87,7 @@ imageView2/0/interlace/1/q/30|imageslim">
 <br>
 <br>
 <br>
+
 
 ## 6. Scad
 <p><strong>主要采购国家：</strong>日本、韩国</p>
@@ -175,5 +176,3 @@ imageView2/0/interlace/1/q/30|imageslim">
 
 
 ## 15. Sand Launce
-
-

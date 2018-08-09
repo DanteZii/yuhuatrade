@@ -72,7 +72,10 @@ module.exports = {
                             buttonText: "Refresh"
                         }
                     },
-                    algolia: {},
+                    algolia: {
+
+                    },
+                        
                     nav: [
                         { text: 'Home', link: '/' },
                         { text: 'Product', link: '/recommend/' },
