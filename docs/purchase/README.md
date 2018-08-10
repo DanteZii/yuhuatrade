@@ -6,7 +6,7 @@ pageClass: custom-page-class
 # Fish
 
 烟裕华凭借多年的从业经验，对货源地产品认真栓选，确保一流品质
-<img src="yuhua-demo-p.svg"> 
+
 <div style="padding:56.25% 0 0 0;position:relative;border-radius:8%"><iframe src="https://player.vimeo.com/video/283261323?loop=0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 
 
@@ -81,7 +81,7 @@ https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-5.%E5%B8%A6%E9%B1%BC--Ribb
 <p><strong>规格：</strong>100-200</p>
 <p><strong>包装：</strong>10公斤</p>
 <div class="imgb" >
- <img  src="http://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-6.%E7%AB%B9%E8%8D%9A%E9%B1%BC--Scad.jpg">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-6.%E7%AB%B9%E8%8D%9A%E9%B1%BC--Scad.jpg">
 </div>
 <hr>
 

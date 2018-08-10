@@ -9,7 +9,7 @@ pageClass: custom-page-class
 ## 1. Bluefin tuna    
 自主加工场 -60度超低温冷库 匠心精神 品质卓越  
 <div class="imgb">
- <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P1.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">
+ <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-0.%E8%97%8D%E9%B0%AD%E9%87%91%E6%9E%AA%E9%B1%BC-Bluefin-tuna.jpg">
 </div>
 <br>  
 <br>                                    
