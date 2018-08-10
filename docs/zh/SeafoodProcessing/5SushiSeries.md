@@ -1,4 +1,4 @@
 ---
-sidebarDepth: 0
+sidebarDepth: 1
 ---
 # 寿司鱼片
