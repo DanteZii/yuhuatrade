@@ -4,129 +4,38 @@ pageClass: custom-page-class
 ---
 # SquidSeries
 
-## 黄金鱿鱼圈
+## 1.裹粉鱿鱼圈--Breaded squid ring
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-1.%E8%A3%B9%E7%B2%89%E9%B1%BF%E9%B1%BC%E5%9C%88--Breaded%20squid%20ring.jpg">
 </div>
 
-## 椒盐鱿鱼花
+## 2.黄金鱿鱼圈--Golden squid ring
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-2.%E9%BB%84%E9%87%91%E9%B1%BF%E9%B1%BC%E5%9C%88--Golden%20squid%20ring.jpg">
 </div>
 
-## 烤椒盐鱿鱼
+## 3.美味鱿鱼堡--Delicious squid burger
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-3.%E7%BE%8E%E5%91%B3%E9%B1%BF%E9%B1%BC%E5%A0%A1--Delicious%20squid%20burger.jpg">
 </div>
 
-## 螺旋椒盐鱿鱼
+## 4.面包屑鱿鱼圈--Dried breaded squid rings
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-4.%E9%9D%A2%E5%8C%85%E5%B1%91%E9%B1%BF%E9%B1%BC%E5%9C%88--Dried%20breaded%20squid%20rings.jpg">
 </div>
 
-## 鳕鱼字母饼
+## 5.烘烤鱿圈--Baked squid ring
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-5.%E7%83%98%E7%83%A4%E9%B1%BF%E5%9C%88--Baked%20squid%20ring.jpg">
 </div>
 
-## 烘烤鱿圈
+## 6.唐扬鱿鱼足--Tang Yang squid feet
 <div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-6.%E5%94%90%E6%89%AC%E9%B1%BF%E9%B1%BC%E8%B6%B3--Tang%20Yang%20squid%20feet.jpg">
 </div>
 
-## 唐扬鱿鱼足
+## 7.鱿鱼迷你香酥圈--Mini tasted pastry squid ring
 <div class="imgb" >
- <img  src="">
-</div>
-
-## 面包屑鱿鱼圈
-<div class="imgb" >
- <img  src="">
-</div>
-
-
-## 北极甜虾刺身
-<p><strong>主要采购国家：</strong>进口</p>
-<p><strong>规格：</strong>30尾</p>
-<p><strong>包装：</strong>30片/盘，100克/盘，40盘/箱，4公斤/箱</p>
-<div class="imgb" >
- <img  src="">
-</div>
-
-## 烟熏三文鱼片
-<p><strong>主要采购国家：</strong>进口</p>
-<p><strong>规格：</strong>1000-2000</p>
-<p><strong>包装：</strong></p>
-<div class="imgb" >
- <img  src="">
-</div>
-<hr>
-
-## 半壳牡蛎
-<p><strong>主要采购国家：</strong>国产，出口</p>
-<p><strong>规格：</strong></p>
-<p><strong>包装：</strong></p>
-<div class="imgb" >
- <img  src="">
-</div>
-## 黄鰤鱼片
-<p><strong>主要采购国家：</strong>日本</p>
-<p><strong>规格：</strong>2500+</p>
-<p><strong>包装：</strong>不定重，2-3条/箱</p>
-<div class="imgb" >
- <img  src="">
-</div>
-
-
-## 裹粉鱿鱼圈
-<p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
-<p><strong>规格：</strong>1000</p>
-<p><strong>包装：</strong></p>
-<div class="imgb" >
- <img  src="">
-</div>
-<hr>
-
-
-## 天妇罗鱿鱼条
-<p><strong>主要采购国家：</strong></p>
-<p><strong>规格：</strong></p>
-<p><strong>包装：</strong></p>
-<div class="imgb" >
- <img  src="">
-</div>
-
-
-## 章鱼丸
-<p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
-<p><strong>规格：</strong>一个50克</p>
-<p><strong>包装：</strong>5000/袋</p>
-<div class="imgb" >
- <img  src="">
-</div>
-<hr>
-
-
-## 天妇罗虾
-<p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
-<p><strong>规格：</strong>10支/盘</p><strong>出口规格：</strong>12支/盘
-<p><strong>包装：</strong>12盘/箱</p>
-<div class="imgb" >
- <img  src="">
-</div>
-
-## 裹粉虾
-<p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
-<p><strong>规格：</strong>25g/条、375g/盒/1kg/盒</p>
-<div class="imgb" >
- <img  src="">
-</div>
-
-### 一口好加吉鱼块
-<p><strong>主要采购国家：</strong>原料进口，成品直接出口</p>
-<p><strong>规格：</strong>1000</p>
-<p><strong>包装：</strong></p>
-<div class="imgb" >
- <img  src="">
+ <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-S-7.%E9%B1%BF%E9%B1%BC%E8%BF%B7%E4%BD%A0%E9%A6%99%E9%85%A5%E5%9C%88--Mini%20tasted%20pastry%20squid%20ring.jpg">
 </div>
 <hr>

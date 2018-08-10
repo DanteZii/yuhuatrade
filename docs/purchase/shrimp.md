@@ -3,7 +3,7 @@ sidebarDepth: 1
 pageClass: custom-page-class
 ---
 
-# shrimp
+# Shrimp
 
 ## 1. 牡丹虾--Spot prawn
 <div class="imgb" >

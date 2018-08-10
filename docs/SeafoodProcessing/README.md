@@ -7,15 +7,4 @@ pageClass: custom-page-class
 <div class="imgb" >
  <img  src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-1.%E9%9D%A2%E5%8C%85%E7%B2%89%E7%89%A1%E8%9B%8E--Breaded%20oyseters.jpg">
 </div>
-
-
-
-# sadsdasdasdasd
-
-```graphLR
-    A[Hard edge] -->|Link text| B(Round edge)
-    B --> C{Decision}
-    C -->|One| D[Result one]
-    C -->|Two| E[Result two]
-```
-<i class="icon-weibo"></i>
+<hr>
