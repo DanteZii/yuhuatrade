@@ -18,8 +18,8 @@ pageClass: custom-page-class
 <p><strong>规格：</strong>200-400 300-500，400-600 700+</p>
 <p><strong>包装：</strong>10公斤或15公斤</p>
 <div class="imgb" >
-    <img  src="http://pd255kmag.bkt.clouddn.com/%E9%B2%90%E9%B2%85%E9%B1%BC--Pacific%20Mackerel.jpg?	
-imageView2/0/interlace/1/q/30|imageslim">
+    <img  src="http://pd255kmag.bkt.clouddn.com/P1.%E9%B2%90%E9%B2%85%E9%B1%BC--Pacific%20Mackerel.jpg?	
+imageView2/0/interlace/1/q/75|imageslim">
 </div>
 <br>
 <br>
@@ -29,13 +29,10 @@ imageView2/0/interlace/1/q/30|imageslim">
 <p><strong>主要采购国家：</strong> 韩国、日本</p>
 <p><strong>规格：</strong>200-400 300-400 500-750</p>
 <p><strong>包装：</strong>10公斤或15公斤</p>
-
-<figure class="third">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Spanish%20Mackerel%E6%8B%B7%E8%B4%9D.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Spanish%20Mackerel%20%283%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Spanish%20Mackerel%20%282%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-    <img src="http://p93s97xb4.bkt.clouddn.com/Spanish%20Mackerel%20%284%29.jpg?imageView2/1/w/300/h/300/q/75|imageslim">
-</figure>
+<div class="imgb" >
+ <img  src="http://pd255kmag.bkt.clouddn.com/P2-%E9%B2%85%E9%B1%BC--Spanish%20Mackerel.jpg?	
+imageView2/0/interlace/1/q/75|imageslim">
+</div>
 <hr>
 <br>
 <br>
