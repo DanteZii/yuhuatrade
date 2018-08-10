@@ -18,6 +18,9 @@ pageClass: custom-page-class
 <br>                                                                               
 
 ## 2. Yellow tail  
+<div class="imgb">
+ <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/P-F-4.%E9%BB%84%E9%B0%A4%E9%B1%BC--Yellowtail.jpg">
+</div>
 <br>  
 <br>                                    
 <br>                                    
@@ -25,6 +28,9 @@ pageClass: custom-page-class
 <br>                                   
 
 ## 3. Tempura shrimp  
+<div class="imgb">
+ <img src="https://yuhuawebsite.oss-cn-hongkong.aliyuncs.com/A-2.%E5%A4%A9%E5%A6%87%E7%BD%97%E8%99%BE--Tempura%20shrimp.jpg">
+</div>
 <br>  
 <br>                                    
 <br>                                    
